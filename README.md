@@ -1,4 +1,4 @@
-# mathemtica-error-propagation
+# mathematica-error-propagation
 To use this packet, please import it with
 
 ``Needs["ErrProp`", "C:\\path\\to\\file\\ErrProp.wl"]``.
